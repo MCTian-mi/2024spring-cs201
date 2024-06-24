@@ -53,15 +53,23 @@ Updated 1009 GMT+8 Feb 28, 2024
 
 ## 2. 提交内容
 
-// TODO
+> **[Github Repository]([MCTian-mi/2024spring-cs201 (github.com)](https://github.com/MCTian-mi/2024spring-cs201))**
 
+> ![image-20240624124607086](pic\image-20240624124607086.png)
 
+> [Cheatsheet]([2024spring-cs201/cheatsheet/3_cheatsheet (整理版).md at master · MCTian-mi/2024spring-cs201 (github.com)](https://github.com/MCTian-mi/2024spring-cs201/blob/master/cheatsheet/3_cheatsheet (整理版).md)
 
 ## 3. 课程总结
 
 如果愿意，请同学或多或少做一个本门课程的学习总结。便于之后师弟师妹跟进学习，也便于教师和助教改进教学。例如：分享自己的学习心得、笔记。
 
-// TODO
+正如[Assignment1](assignment1.md)中所说，选上这门课是在计概一年多之后，所以数算的学习也经历了一个康复训练的过程。
+
+这学期的学习总的来说还算是比较快乐吧，虽然基本上也就只做了作业题，但还是能学到不少东西，无论是各种数据结构和解决问题的范式，还是“类”的思想，还是非常有意思的。
+
+对于我而言，学习编程更多是为了兴趣，这也是我选这门课的初衷之一。这学期除了完成作业题，也对自己感兴趣的项目做出了贡献（虽然不是python），是数算课程的学习使这变成了可能，从这一点来看，也算是有所收获吧。
+
+> ![image-20240623224158690](pic\image-20240623224158690.png)
 
 ## 参考
 
