@@ -54,7 +54,7 @@ print(x + 1 - len(s))
 
 代码运行截图 
 
-![image-20240508204401261](pic\image-20240508204401261.png)
+![image-20240508204401261](pic/image-20240508204401261.png)
 
 
 
@@ -90,7 +90,7 @@ print(ans)
 
 代码运行截图 
 
-![670b320f2a096819faa3001326690b54](pic\670b320f2a096819faa3001326690b54.png)
+![670b320f2a096819faa3001326690b54](pic/670b320f2a096819faa3001326690b54.png)
 
 
 
@@ -141,7 +141,7 @@ while True:
 
 代码运行截图 
 
-![image-20240508204515243](pic\image-20240508204515243.png)
+![image-20240508204515243](pic/image-20240508204515243.png)
 
 
 
@@ -197,7 +197,7 @@ print('connected:{}\nloop:{}'.format(connected, loop))
 
 代码运行截图 
 
-![7e009f7fc739dc3cc27a9b2575939386](pic\7e009f7fc739dc3cc27a9b2575939386.png)
+![7e009f7fc739dc3cc27a9b2575939386](pic/7e009f7fc739dc3cc27a9b2575939386.png)
 
 
 
@@ -245,7 +245,7 @@ for _ in range(int(input())):
 
 代码运行截图 
 
-![34bcf84a922dc41d77295588db34d8af](pic\34bcf84a922dc41d77295588db34d8af.png)
+![34bcf84a922dc41d77295588db34d8af](pic/34bcf84a922dc41d77295588db34d8af.png)
 
 
 
@@ -290,7 +290,7 @@ print(ans)
 
 代码运行截图 
 
-![image-20240508204635794](pic\image-20240508204635794.png)
+![image-20240508204635794](pic/image-20240508204635794.png)
 
 
 

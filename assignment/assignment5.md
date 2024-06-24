@@ -110,7 +110,7 @@ print(myBiTree.depth, myBiTree.leaf)
 
 代码运行截图 
 
-![image-20240322185710853](pic\image-20240322185710853.png)
+![image-20240322185710853](pic/image-20240322185710853.png)
 
 
 
@@ -231,7 +231,7 @@ print(myTree.preorder() + "\n" + myTree.postorder())
 
 代码运行截图 
 
-![image-20240322232920439](pic\image-20240322232920439.png)
+![image-20240322232920439](pic/image-20240322232920439.png)
 
 
 
@@ -369,7 +369,7 @@ while True:
 
 代码运行截图 
 
-![image-20240324100537048](pic\image-20240324100537048.png)
+![image-20240324100537048](pic/image-20240324100537048.png)
 
 
 
@@ -486,7 +486,7 @@ for _ in range(int(input())):
 
 代码运行截图 
 
-![image-20240324100619512](pic\image-20240324100619512.png)
+![image-20240324100619512](pic/image-20240324100619512.png)
 
 
 
@@ -618,7 +618,7 @@ print(toTree(input(), input(), -1).preOrder())
 
 代码运行截图 
 
-![image-20240324100743292](pic\image-20240324100743292.png)
+![image-20240324100743292](pic/image-20240324100743292.png)
 
 
 
@@ -754,7 +754,7 @@ while True:
 
 代码运行截图 
 
-![image-20240324100816066](pic\image-20240324100816066.png)
+![image-20240324100816066](pic/image-20240324100816066.png)
 
 
 

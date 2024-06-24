@@ -202,7 +202,7 @@ while True:
 
 代码运行截图
 
-![alt text](pic\assignmentA-2.png)
+![alt text](pic/assignmentA-2.png)
 
 
 
@@ -245,7 +245,7 @@ while True:
 
 代码运行截图
 
-![alt text](pic\assignmentA-3.png)
+![alt text](pic/assignmentA-3.png)
 
 
 
@@ -313,7 +313,7 @@ print(bfs([(pos1, t)]))
 
 代码运行截图
 
-![alt text](pic\assignmentA-4.png)
+![alt text](pic/assignmentA-4.png)
 
 
 
@@ -369,7 +369,7 @@ for _ in range(p):
 
 代码运行截图
 
-![alt text](pic\assignmentA-5.png)
+![alt text](pic/assignmentA-5.png)
 
 
 
@@ -442,7 +442,7 @@ print(ans)
 
 代码运行截图
 
-![alt text](pic\assignmentA-6.png)
+![alt text](pic/assignmentA-6.png)
 
 
 

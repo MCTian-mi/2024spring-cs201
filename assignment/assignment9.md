@@ -97,7 +97,7 @@ print(f"{tree.depth()} => {binary_tree.depth()}")
 
 代码运行截图
 
-![image-20240423233131283](pic\image-20240423233131283.png)
+![image-20240423233131283](pic/image-20240423233131283.png)
 
 
 
@@ -192,7 +192,7 @@ print(binary_tree.backward_traverse())
 
 代码运行截图
 
-![image-20240423233622936](pic\image-20240423233622936.png)
+![image-20240423233622936](pic/image-20240423233622936.png)
 
 
 
@@ -249,7 +249,7 @@ while True:
 
 
 
-![image-20240423231901556](pic\image-20240423231901556.png)
+![image-20240423231901556](pic/image-20240423231901556.png)
 
 ![alt text](image-2.png)
 
@@ -360,7 +360,7 @@ print(bfs([(pos1, t)]))
 
 
 
-![image-20240423231458559](pic\image-20240423231458559.png)
+![image-20240423231458559](pic/image-20240423231458559.png)
 
 ![alt text](image-3.png)
 
@@ -447,7 +447,7 @@ for _ in range(p):
 
 
 
-![image-20240423232604021](pic\image-20240423232604021.png)
+![image-20240423232604021](pic/image-20240423232604021.png)
 
 ![alt text](image-5.png)
 
@@ -568,7 +568,7 @@ print(ans)
 
 
 
-![image-20240423233856600](pic\image-20240423233856600.png)
+![image-20240423233856600](pic/image-20240423233856600.png)
 
 ![alt text](image-4.png)
 
